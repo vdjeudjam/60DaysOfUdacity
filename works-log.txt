@@ -1,0 +1,6 @@
+#D1
+- Kept pace with git, forked and contributed to First-Contribution repo, 
+Created 60DaysOfUdacity repo
+- Progress on challenge: Lesson 12 completed - Cloud Computing, successfully setup 
+free-tier account 
+
